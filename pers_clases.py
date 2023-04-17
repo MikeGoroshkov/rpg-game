@@ -27,13 +27,6 @@ class warrior:
     intelligence = 5
     start_weapon = woodcutter_axe
 
-class archer:
-    health = 100
-    endurance = 5
-    strength = 5
-    dexterity = 7
-    intelligence = 5
-    start_weapon = decrepit_bow
 
 class wizard:
     health = 100
