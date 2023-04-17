@@ -7,7 +7,6 @@ class decrepit_bow:
     min_dexterity = 7
     base_damage = 10
     damage_per_sec = 'base_damage*(1 + dexterity*0.5)'
-    # def __init__(self):
 
 class exquisite_bow:
     min_dexterity = 10
